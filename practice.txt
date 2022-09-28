@@ -1,0 +1,6 @@
+#!/bin/bash
+
+Hello Everyone, how was day 
+
+day1= 
+day2=
